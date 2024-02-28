@@ -7,7 +7,7 @@
 <head runat="server">
     <title>Login Page</title>
     <link rel="stylesheet" type="text/css" href="login.css" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             background: linear-gradient(to left, #333399, #FF00CC );
