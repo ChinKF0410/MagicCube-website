@@ -1,0 +1,67 @@
+﻿
+@media only screen and (max-width: 600px) {
+    .container {
+        
+        width: 70%;
+        height: 550px;
+        background-color:blue;
+    }
+}
+.container {
+    font-family: 'Roboto', sans-serif;
+    width: 30%;
+    height:550px;
+    margin: 0 auto;
+    margin-top: 100px; /* Adjust this value to center vertically */
+    border: 1px solid;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+    .container table {
+        margin: 0 auto;
+    }
+
+container input[type="text"] {
+    margin-top: 200px;
+}
+
+.container input[type="text"],
+.container input[type="password"] {
+    margin-bottom: 10px; /* Adjust the spacing between input boxes */
+    border: none;
+    outline: none;
+    width: 75%;
+    height: 20px;
+    font-size: 16px;
+    border-bottom: 1px solid;
+}
+
+.btnlogin {
+    background-color: black;
+    border: none;
+    background: linear-gradient(to left, #333399, #FF00CC );
+    color: white;
+    padding: 10px 40%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.Summary {
+    margin-top: 20px;
+}
+
+td .labeldesign {
+    text-align: left;
+}
+
+
+.forgetpass {
+    font-size: 12px;
+}
